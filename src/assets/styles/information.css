@@ -1,0 +1,11 @@
+.information-1 {
+    background-color: pink;
+    font-weight: 1000;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    background-image: url(../images/comingsoon2.gif);
+    background-size: cover;
+    height: 200px;
+}
